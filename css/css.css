@@ -7,3 +7,15 @@
 	text-align:center;
 	background: #F76F05;
 }
+.container_content_1{
+	margin-top:5%;
+	padding: 4px 4px 4px;
+	position:absolute;
+	top:80px;
+	text-align:justify;
+	width:40%;
+	border: 5px solid #1162D1;
+	border-radius: 10px;
+	background:#1162D1;
+
+}
