@@ -51,3 +51,19 @@ div.desc {
     padding: 15px;
     text-align: center;
 }
+
+.container_footer{
+	margin:0;
+	position:relative;
+	margin-top:7%;	
+	height:40%;
+	padding:20px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#EDE3DB;
+	text-align:center;
+	background: #4E4E4F;
+}
+.vinculos{
+	padding:10px;
+	color:#EDE3DB;
+}
